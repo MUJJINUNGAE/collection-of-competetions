@@ -1,4 +1,4 @@
-# Collection of Competetions
+# Collection of Competitions
 
 This repository is a collection of various machine learning, deep learning, and data science competitions from multiple platforms like Kaggle, Dacon, and others. It aims to serve as a reference for datasets, solutions, and approaches used in these competitions.
 
